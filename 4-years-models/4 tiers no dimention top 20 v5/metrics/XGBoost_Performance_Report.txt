@@ -1,0 +1,15 @@
+--- MULTI-CLASS PERFORMANCE DIAGNOSTICS ---
+Global Accuracy: 87.51%
+
+              precision    recall  f1-score   support
+
+       Floor       0.77      0.84      0.81      1852
+    Discount       0.91      0.89      0.90     20736
+ Low-Neutral       0.81      0.84      0.83     19961
+High-Neutral       0.84      0.82      0.83     21275
+        High       0.93      0.94      0.93     29122
+ Super-Spike       0.67      0.88      0.76       385
+
+    accuracy                           0.88     93331
+   macro avg       0.82      0.87      0.84     93331
+weighted avg       0.88      0.88      0.88     93331

@@ -1,0 +1,22 @@
+--- CLASSIFICATION PERFORMANCE REPORT ---
+
+Global Accuracy: 95.50%
+
+              precision    recall  f1-score   support
+
+
+
+      Normal       0.97      0.97      0.97     69389
+
+        High       0.90      0.92      0.91     22971
+
+       Spike       0.86      0.72      0.78       971
+
+
+
+    accuracy                           0.96     93331
+
+   macro avg       0.91      0.87      0.89     93331
+
+weighted avg       0.96      0.96      0.95     93331
+
